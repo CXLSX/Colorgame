@@ -1,4 +1,3 @@
-//Random list of colors
 var numSquares = 6;
 var colors = generateRandomColors(6);
 var squares = document.querySelectorAll(".square");
